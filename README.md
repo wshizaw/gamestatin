@@ -1,2 +1,2 @@
 # sample
-GITHUB学習用リポジトリ
+GITHUB学習用リポジトリ隻狼
