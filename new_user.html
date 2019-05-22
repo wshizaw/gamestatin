@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="UTF-8">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>新規登録</title>
+</head>
+<style>
+h1 {
+    text-align: center;
+}
+ ul li {
+    list-style: none;
+    margin-top: 10px;
+ }
+ label {
+    margin-right: 10px;
+    width:150px;
+    float: left;
+}
+ul {
+    width: 500px;
+    margin: 0 auto;
+}
+button {
+    display: block;
+    margin: 0 auto;
+    margin-right: 100px;
+}
+a {
+  text-align: left;
+}
+</style>
+<body>
+    <h1>新規ユーザ登録</h1>
+        <form action='result.php' method='post'>
+            <ul>
+                <li>
+                    <label for='id'>ID</label>
+                    <input type='text' name='id'>
+                </li>
+                <p></p>
+                <li>
+                    <label for='name'>名前</label>
+                    <input type='text' name='name'>
+                </li>
+                <p></p>
+                <li>
+                    <label for='pass'>パスワード</label>
+                    <input type="password" name="pass">
+                </li>
+                <p></p>
+                    <button type='submit'>登録する</button>
+            </ul>
+        </form>
+        <a href="#">戻る</a>
+</body>
+</html>
