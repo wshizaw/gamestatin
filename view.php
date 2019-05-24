@@ -6,19 +6,16 @@
 </head>
 <body>
 <form action="model.php" method="post">
- <p>
      <label >   
-    <img src="fig1.png">
-    <input type="radio" title="zyanken" name="zyanken" >グー
+    <input type="radio" title="zyanken" name="zyanken"　value="グー" >グー
     </label>
     <label>
-    <img src="fig2.png">
-     <input type="radio" title="zyanken" name="zyanken" >チョキ
+     <input type="radio" title="zyanken" name="zyanken" value="チョキ">チョキ
      <label>
-     <img src="fig3.png">
-     <input type="radio" title="zyanken" name="zyanken" >パー
+     <input type="radio" title="zyanken" name="zyanken" value="パー">パー
    </label>
-     <button type="submit" class ="battole-button">
+     <button type="submit" class ="battole-button">勝負</button>
 </form>
 </body>
 </html>
+
