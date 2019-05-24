@@ -40,4 +40,3 @@ $teki=$hands[$key];
           break;
       }
  }
->
