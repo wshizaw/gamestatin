@@ -12,7 +12,7 @@
             <p></p>
             <button type='submit'>送信する</button>
             <p></p>
-        <button type='submit'>新規</button>
+        <button type='submit'>新規登録sinaaaaaaaai</button>
 
         </form>
     </body>
