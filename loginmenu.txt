@@ -7,7 +7,7 @@
             <label for='article'>ID</label>
             <input type='text' name='article'>
             <p></p>
-            <label for='name'>名前</label>
+            <label for='name'>名前</label>tttttttttttttttttttttttttttttttttttttt
             <input type='text' name='article'>
             <p></p>
             <button type='submit'>送信する</button>
